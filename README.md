@@ -1,4 +1,4 @@
-### I'm Lucas 👋
+### 👋 I'm Lucas 
 
 <!--
 **lucasberardi95/lucasberardi95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
