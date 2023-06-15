@@ -1,4 +1,4 @@
-<img align='center'src= 'https://248006.selcdn.ru/main/iblock/f0b/f0b2871ca95fca05851461885ab99a4b/1b734e5aec94579a5c025dcb7cc24237.png' width=250 height=150/>
+<img align='center' src= 'https://248006.selcdn.ru/main/iblock/f0b/f0b2871ca95fca05851461885ab99a4b/1b734e5aec94579a5c025dcb7cc24237.png' width=250 height=150/>
 <h1 align='center'>Hi👋, I'm Lucas</h1>
 <h2>I'm a current Full Stack Developer student from Bs.As., Argentina</h2>
 
