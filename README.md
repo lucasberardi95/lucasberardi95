@@ -4,7 +4,7 @@
     <h2 align='center'>I'm a current Full Stack Developer student from Bs.As., Argentina</h2>
 
 </div>
-<!--
+<!-- 
 **lucasberardi95/lucasberardi95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 
 const Lucas = {
     pronouns: "He" | "Him",
@@ -25,3 +25,5 @@ const Lucas = {
     learning: ["React Native", "SQL"],
     askMeAbout: ["web dev", "music", "art", "football", "video games"],
 };
+
+ -->
