@@ -1,9 +1,19 @@
-<div id='header' align='center'>
-    <img src= 'https://media.giphy.com/media/HLB0nLA36GCCo6JuB5/giphy.gif' width=200/>
-    <h1 align='center'>Hi👋, I'm Lucas</h1>
-    <h2 align='center'>I'm a current Full Stack Developer student from Bs.As., Argentina</h2>
+<img align='center'src= 'https://248006.selcdn.ru/main/iblock/f0b/f0b2871ca95fca05851461885ab99a4b/1b734e5aec94579a5c025dcb7cc24237.png' width=250 height=150/>
+<h1 align='center'>Hi👋, I'm Lucas</h1>
+<h2>I'm a current Full Stack Developer student from Bs.As., Argentina</h2>
 
-</div>
+
+<h2>About me:</h2>
+
+```text
+const Lucas = {
+    pronouns: "He" | "Him",
+    learned: ["HTML", "CSS", "Bootstrap", "SASS", "GIT", "Javascript", "React"],
+    learning: ["React Native", "SQL"],
+    askMeAbout: ["web dev", "music", "art", "football", "video games"],
+};
+```
+
 <!-- 
 **lucasberardi95/lucasberardi95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -18,12 +28,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-
-const Lucas = {
-    pronouns: "He" | "Him",
-    learned: ["HTML", "CSS", "Bootstrap", "SASS", "GIT", "Javascript", "React"],
-    learning: ["React Native", "SQL"],
-    askMeAbout: ["web dev", "music", "art", "football", "video games"],
-};
 
  -->
