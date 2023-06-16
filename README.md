@@ -6,7 +6,7 @@
 const Lucas = {
     pronouns: "He" | "Him",
     learned: ["HTML", "CSS", "Bootstrap", "SASS", "GIT", "Javascript", "React"],
-    learning: ["React Native", "SQL"],
+    learning: ["Backend"],
     askMeAbout: ["web dev", "music", "art", "football", "video games"],
 };
 ```
