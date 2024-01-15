@@ -1,12 +1,12 @@
 <h1 align='center'>Hi👋, I'm Lucas</h1>
-<h2>⚡ I'm a current Full Stack Developer student from Bs.As., Argentina</h2>
+<h2>⚡ Full Stack MERN Developer student from Bs.As., Argentina</h2>
 <h2>About me:</h2>
 
 ```text
 const Lucas = {
     pronouns: "He" | "Him",
-    learned: ["HTML", "CSS", "Bootstrap", "SASS", "GIT", "Javascript", "React"],
-    learning: ["Backend"],
+    learned: ["HTML", "CSS", "Bootstrap", "SASS", "GIT", "Javascript", "React", "Express", "Nodejs", "MongoDB"],
+    learning/improving: ["Typescript", "SQL Database", "POO"],
     askMeAbout: ["web dev", "music", "art", "football", "video games"],
 };
 ```
