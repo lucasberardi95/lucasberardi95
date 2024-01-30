@@ -1,5 +1,5 @@
 <h1 align='center'>Hi👋, I'm Lucas</h1>
-<h2>⚡ Full Stack MERN Developer student from Bs.As., Argentina</h2>
+<h2>⚡ Full Stack MERN Developer from Bs.As., Argentina</h2>
 <h2>About me:</h2>
 
 ```text
