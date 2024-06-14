@@ -1,4 +1,4 @@
-<img src='/img/banner.png' alt='banner' align='center' width='100%'/>
+<img src='/img/banner.png' alt='banner' align='center' width='100%' height='180'/>
 
 ### I'm a full stack developer from Bs.As., Argentina, focused on the MERN stack. Passionate about continuous learning and improving my skills.
 
