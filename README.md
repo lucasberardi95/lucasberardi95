@@ -1,7 +1,6 @@
-<img src='/img/banner.png' alt='banner' align='center' width='200'/>
+<img src='/img/banner.png' alt='banner' align='center' width='100%'/>
 
-###
-I'm a full stack developer from Bs.As., Argentina, focused on the MERN stack. Passionate about continuous learning and improving my skills.
+### I'm a full stack developer from Bs.As., Argentina, focused on the MERN stack. Passionate about continuous learning and improving my skills.
 
 **Knowledges:** <br/>
 ![Static Badge](https://img.shields.io/badge/HTML5-black?style=flat&logo=html5)
@@ -19,8 +18,8 @@ I'm a full stack developer from Bs.As., Argentina, focused on the MERN stack. Pa
 ![Static Badge](https://img.shields.io/badge/MONGODB-black?style=flat&logo=mongodb)
 ![Static Badge](https://img.shields.io/badge/MYSQL-black?style=flat&logo=mysql)
 
-**Learning / improving:** <br/>
 
+**Learning / improving:** <br/>
 ![Static Badge](https://img.shields.io/badge/TYPESCRIPT-black?style=flat&logo=typescript)
 ![Static Badge](https://img.shields.io/badge/PYTHON-black?style=flat&logo=python)
 ![Static Badge](https://img.shields.io/badge/PHP-black?style=flat&logo=php)
